@@ -1,4 +1,4 @@
-# Manga Website Project  
+# Manga Website Project (one-day-build) 
 
 **Live Demo:** [Manga Website](https://alyasometimeshidesherfeelingsmanga.framer.website/)  
 
@@ -41,4 +41,4 @@ Feel free to star ⭐ the repo if you like the project and do whatever you want 
 
 ## 🧑‍💻 Author
 Built by [Rahul Lashkari](https://github.com/Rahul-Lashkari).  
-Connect with me on [Twitter](https://twitter.com/https://x.com/rahul_lashkari1).
+Connect with me on [Twitter](https://x.com/rahul_lashkari1).
